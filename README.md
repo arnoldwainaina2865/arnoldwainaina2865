@@ -1,18 +1,17 @@
-# 👋 Hi there, I'm Anold Wainaina
+# 👋 Hi there, I'm Arnold 
 
 🚀 Aspiring Full Stack Developer | 🎓 IT Graduate | 🔧 Creative Problem Solver
 
-I'm a passionate software engineer from Kenya, currently completing a software development bootcamp at Moringa School. I specialize in crafting clean, full-stack web applications that are not only functional but beautiful.
+I'm a passionate software engineer, currently completing a software development bootcamp at Moringa School. I specialize in crafting clean, full-stack web applications that are not only functional but beautiful.
 
 ---
 
 ## 💼 About Me
 
-- 🌍 Based in Nairobi, Kenya  
+- 🌍 Based in Nairobi  
 - 💻 Tech Stack: **React** | **Python** | **Flask** | **Tailwind CSS** | **Supabase** | **PostgreSQL**  
-- 📚 Currently learning: DevOps, Deployment, and Advanced API Integration  
-- 🛒 Building: `ElimuEmart` – a full-stack stationery e-commerce platform  
-- 🎯 Goal: Become a world-class full stack developer in 6 months  
+- 📚 Currently learning: DevOps, Deployment, and Advanced API Integration   
+- 🎯 Goal: Become a world-class full stack developer.  
 
 ---
 
