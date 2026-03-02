@@ -1,42 +1,51 @@
-# Hi, I'm Arnold 👋
+# 👋 Hi, I'm Arnold Wainaina
 
-Full Stack Developer in training | IT Graduate | Based in Nairobi
+💻 Full Stack Developer  
+🎓 IT Graduate  
 
----
-
-## About Me
-
-I'm a software developer currently completing a bootcamp at Moringa School. I build clean, functional full-stack web applications and I'm focused on growing into a well-rounded engineer.
-
-- **Stack:** React · Python · Flask · Tailwind CSS · Supabase · PostgreSQL
-- **Currently learning:** DevOps, deployment, and advanced API integration
+I build clean, responsive, and scalable web applications using modern technologies. I enjoy solving real-world problems through code and continuously improving my skills.
 
 ---
 
-## Skills
+## 💼 About Me
+
+- 📍 Nairobi, Kenya  
+- 🛠 Tech Stack: React, JavaScript, Python, Flask, PostgreSQL, Tailwind CSS  
+- 🔧 Tools: Git, GitHub, Vite, Vercel, Supabase  
+- 📚 Currently Learning: DevOps, Deployment, Advanced API Integration  
+- 🎯 Goal: Build production-ready full stack applications that create real impact  
+
+---
+
+## 🚀 Tech Stack
 
 ![My Skills](https://skillicons.dev/icons?i=js,react,python,flask,tailwind,postgresql,html,css,git,github,vite,vercel,supabase)
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![Arnold's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnoldwainaina2865&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnoldwainaina2865&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldwainaina2865&layout=compact&theme=radical)
 
 ---
 
-## What I'm Working On
+## 🧠 What I’m Working On
 
-- Integrating Supabase with Flask APIs
-- Deploying React apps with Vercel
-- Building RESTful APIs with full CRUD
-- Implementing shopping cart, checkout, and user authentication
+- Building and deploying full stack applications  
+- Developing RESTful APIs with full CRUD functionality  
+- Implementing authentication and secure user systems  
+- Building e-commerce features (cart, checkout, payments)  
 
 ---
 
-## Let's Connect
+## 📫 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/arnoldwainaina)
-- [Portfolio](https://arnoldwainaina2865.github.io/Personal-Portfolio/)
-- arnoldwainaina766@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/arnoldwainaina  
+- 🌐 Portfolio: https://arnoldwainaina2865.github.io/Personal-Portfolio/  
+- 📧 Email: arnoldwainaina766@gmail.com  
+
+---
+
+> *Building simple, scalable, and impactful solutions.*
